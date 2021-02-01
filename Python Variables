@@ -1,0 +1,9 @@
+name = ' Frankie'
+age = 21
+pi = 3.14
+cars = ['bmw', 'mercedes', 'range rover']
+
+print (name)
+print (age)
+print (pi)
+print(cars)
